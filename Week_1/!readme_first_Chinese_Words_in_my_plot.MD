@@ -3,7 +3,7 @@ Chinese Words in my plot!
 Hello my classmates!
 
 In the "Plot2", "Plot3" and "Plot4",  there are the Chinese words under
-the x-axis, the "ÖÜËÄ" is "Thursday" or ¡°Thu.", the ¡°ÖÜÎå¡± is "Friday" or "Fri.", and the ¡°ÖÜÁù¡± is "Saturday" or "Sat.".
+the x-axis, the "å‘¨å››" is "Thursday" or â€œThu.", the "å‘¨äº”" is "Friday" or "Fri.", and the "å‘¨å…­" is "Saturday" or "Sat.".
 
-Because the system language of my PC is Chinese£¬ therefore, when I
-create these plots, it were automatically labeled with Chinese.
+Because the system language of my PC is Chineseï¼Œ therefore, when I
+create these plots, it were automatically labeled with Chinese. 

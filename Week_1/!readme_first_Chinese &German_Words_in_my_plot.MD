@@ -10,5 +10,5 @@ create these plots, it were automatically labeled with Chinese.
 
 On Monday 25.07.2016
 
-I have try the computer in my Company, but the system language here is German, so you can some German in Plot2 to Plot4. 
+I have tried the computer in my Company, but the system language here is German, so you can see some German in Plot2 to Plot4. 
 Namely, the "Do" is in fact "Thursday"("Donnerstag in German").
